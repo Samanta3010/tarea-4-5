@@ -1,0 +1,31 @@
+.flex-container {display: flex;
+   
+    background-color: burlywood;
+  
+    flex-direction: column;
+   
+}
+.flex-container div{
+    background-color: brown;
+    flex-basis:  100%;
+    margin: 5px;
+   color: white;
+  @media (max: width 300px;{
+    .flex-container 
+   flex-direction:column ;
+   .flex-container div{
+    flex-basis:  100%;}
+    
+  } 
+    
+
+
+
+    
+  
+     
+      
+
+    
+    
+   
